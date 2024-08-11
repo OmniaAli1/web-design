@@ -1,0 +1,53 @@
+body{
+    padding: 0 5%;
+}
+.card{
+    display: inline-block;
+    box-sizing: border-box;
+    width: 30%;
+    border-color: gray;
+    border-radius: 10px;
+    
+}
+.bg-dark{
+    background-color: antiquewhite;
+}
+span{
+    padding: 0 1%;
+}
+.bg-img{
+    width: 80%;
+    height: 80%;
+}
+.img{
+    width: 400px;
+    height: 300px;
+}
+.heading{
+    color: aqua;
+}
+hr{
+    width: 10%;
+    margin: 20px 0; 
+    border-width: 1px;
+    border-style: solid;
+    border: 2px solid black;
+
+}
+.card-2{
+    float: right;
+    box-sizing: border-box;
+    width: 30%;
+    border-color: gray;
+    border-radius: 10px;
+    
+}
+.card-3{
+    float: right;
+    box-sizing: border-box;
+    width: 30%;
+    border-color: gray;
+    border-radius: 10px;
+    margin: 0 61px;
+    
+}
