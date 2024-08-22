@@ -1,0 +1,47 @@
+@media (max-width: 775.98px) {
+    .block-list{
+        position: static !important;
+        transform: translate(0px) !important;
+        width: 100% !important;
+    }
+    .custom-img{
+        left: 0% !important;
+    }
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:575.98px){
+    .block-list{
+        position: static !important;
+        transform: translate(0px) !important;
+        width: 100% !important;
+    }
+    .custom-img{
+        left: 0% !important;
+    }
+    /* .img-abt{
+        left: 0;
+    }
+    .custom{
+        width: 100%;
+        display: block;
+    } */
+}
